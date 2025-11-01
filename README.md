@@ -1,5 +1,5 @@
 # Laboratorio-1-Analisis-de-Datos
-Analisis de Datos realizados a un DataSet de Estudiantes de Medicina
+## Analisis de Datos realizados a un DataSet de Estudiantes de Medicina
 
 Basándome en los datos que posee el dataset como la edad, IMC (Indice de Masa Corporal), diabetes, presión arterial, colesterol, etc. realizo un analisis de la relacion entre diversos factores como IMC y la presión, IMC y diabetes, IMC y colesterol, podemos llegar a la conclución que al menos en los datos disponibles no evidencia una relacion directa entre IMC y otros factores.
 
